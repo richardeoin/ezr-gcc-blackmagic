@@ -1,0 +1,15 @@
+# Backup files
+*~
+#*#
+
+# gdbscript
+gdbscript
+gdbscript-custom
+
+# Outputs
+*.d
+out/
+compile_commands.json
+
+# ETAGS file
+TAGS
