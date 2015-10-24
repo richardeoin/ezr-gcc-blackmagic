@@ -130,4 +130,4 @@ rather than editing the project's linker files.
 
 ## Sources & Licensing ##
 
-See [LICENSE.md](LICENSE-samd20-gcc-blackmagic.md)
+See [LICENSE.md](LICENSE-ezr-gcc-blackmagic.md)
